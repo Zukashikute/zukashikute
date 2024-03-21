@@ -38,7 +38,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align="center" width="190">
-        <img src=" https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
     </td>
         <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100">
