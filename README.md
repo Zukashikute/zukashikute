@@ -41,7 +41,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
     </td>
         <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
     </td>
 </tr>
 <tr>
