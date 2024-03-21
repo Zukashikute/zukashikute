@@ -76,4 +76,10 @@ Here are some ideas to get you started:
     </td>
 </tr>
 </table>
+
+<h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jared-joshua-b-9a77b3195/"><img src="https://img.shields.io/badge/-Jared%20Joshua%20Balajadia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:meet.jaredbalajadia96@gmail.com"><img src="https://img.shields.io/badge/-meet.jaredbalajadia96@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
            
