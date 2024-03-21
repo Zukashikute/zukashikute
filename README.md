@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://img.icons8.com/emoji/65/waving-hand-medium-skin-tone.png" alt="waving-hand-medium-skin-tone" className="w-[50px] h-[50px] sm:w-[65px] sm:h-[65px]"/>, I'm Jared</h1>
+<h1 align="center">Hi there <img src="https://img.icons8.com/emoji/65/waving-hand-medium-skin-tone.png" alt="waving-hand-medium-skin-tone" width="65px" height="65px"/>, I'm Jared</h1>
 <h3 align="center">A passionate Frontend Developer and aspiring Fullstack Developer</h3>
 
 <!--
