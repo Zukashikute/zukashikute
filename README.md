@@ -34,14 +34,14 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100">
-    </td>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align="center" width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src=" https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+    </td>
+        <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100">
     </td>
 </tr>
 <tr>
@@ -55,23 +55,24 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center' width="150">
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
-    <td align='center' width="150">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    
-    
-</tr>
-<tr>
-    <td align='center' width="150">
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
     </td>
     <td align='center' width="150">
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
     </td>
+</tr>
+<tr>
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="150">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
     <td align='center' width="150">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170836.png" >
+    </td>
+        <td align='center' width="150" width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
 </tr>
 </table>
