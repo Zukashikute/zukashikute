@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/Zukashikute](https://github.com/Zukashikute)
 - 💬 Ask me about **JavaScript, Express, CSS (CSS Frameworks), React, Nodejs, & MongoDB,**
 - ⚡ Fun fact: I love to code, learn other tools and technologies, and help others
+- 📄 Check out my latest experience on this link: [https://zukashikute.github.io/resume/](https://zukashikute.github.io/resume/)
 
 
 <h2><i>💻 Tech Stack</i></h2>
