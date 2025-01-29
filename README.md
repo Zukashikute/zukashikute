@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently a Frontend Developer.
-- 🌱 I’m currently learning **Full Stack Development** so I can be a Fullstack Developer
+- 🔭 I’m currently a Software Developer
 - 👨‍💻 All of my projects are available at [https://github.com/Zukashikute](https://github.com/Zukashikute)
 - 💬 Ask me about **JavaScript, Express, CSS (CSS Frameworks), React, Nodejs, & MongoDB,**
 - ⚡ Fun fact: I love to code, learn other tools and technologies, and help others
